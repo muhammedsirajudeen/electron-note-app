@@ -6,6 +6,7 @@
 A simple, elegant Markdown note-taking desktop app built with **Electron** and **React**, supporting local storage, live preview, and basic editing features.
 
 ---
+![image](https://github.com/user-attachments/assets/42cc6e09-6812-48b8-a0d0-02a267acaed5)
 
 ## 🔧 Features
 
